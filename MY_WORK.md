@@ -29,11 +29,11 @@
 
 | Field | Your Answer |
 |-------|-------------|
-| **Full Name** | [Write your full name here] |
-| **Student ID** | [Write your student ID here] |
-| **University Email** | [yourid]@std.psau.edu.sa |
-| **GitHub Username** | [your-github-username] |
-| **Repository Link** | [Paste your repository link here] |
+| **Full Name** | [wasan nasser Al-mutairi] |
+| **Student ID** | [446051554] |
+| **University Email** | 446051554@std.psau.edu.sa |
+| **GitHub Username** | [wasan236] |
+| **Repository Link** | [GitHub Repository](https://github.com/wasan236/OS-Assignment1-Wasan-Almutairi) |
  
 ---
 
@@ -129,16 +129,23 @@
 
 ## Your Development Log
 
-### Entry 1 - [Date and Time]
-**What I did**:
+### Entry 1 - [October 3, 2026, 7:40]
+
+**What I did**: Implemented Feature 1 by adding a priority value to each process.
 
 **Details**:
+- Added a priority variable to the Process class.
+- Added setPriority() and getPriority() methods.
+- Generated a random priority from 1 to 10 for each process.
+- Displayed the priority when a process is added to the ready queue.
+- Ran the program to check that priorities were generated and displayed correctly.
+- Committed and pushed the changes to GitHub.
 
-**Challenges**:
+**Challenges**: The terminal displayed some strange characters while running the program.
 
-**Solution**:
+**Solution**: Checked the program output and confirmed that the priority values were still generated and displayed correctly.
 
-**Time spent**:
+**Time spent**: [4 hours and 40 minutes]
 
 ---
 
