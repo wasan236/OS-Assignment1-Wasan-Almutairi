@@ -129,9 +129,9 @@
 
 ## Your Development Log
 
-### Entry 1 - [October 3, 2026, 7:40]
+### Entry 1 - [October 3, 2026, 8:21]
 
-**What I did**: Implemented Feature 1 by adding a priority value to each process.
+**What I did**: Implemented Feature 1 by adding a priority value to each process and Feature 2 by adding a context switch counter.
 
 **Details**:
 - Added a priority variable to the Process class.
@@ -140,12 +140,16 @@
 - Displayed the priority when a process is added to the ready queue.
 - Ran the program to check that priorities were generated and displayed correctly.
 - Committed and pushed the changes to GitHub.
+- Added a counter to track the total number of context switches.
+- Incremented the counter before starting each process.
+- Displayed the total number of context switches at the end of the simulation.
+- Ran the program and confirmed that the context switch counter worked correctly.
 
 **Challenges**: The terminal displayed some strange characters while running the program.
 
 **Solution**: Checked the program output and confirmed that the priority values were still generated and displayed correctly.
 
-**Time spent**: [4 hours and 40 minutes]
+**Time spent**: [5 hours and 21 minutes]
 
 ---
 
