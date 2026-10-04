@@ -131,7 +131,7 @@
 
 ### Entry 1 - [October 3, 2026, 8:21]
 
-**What I did**: Implemented Feature 1 by adding a priority value to each process and Feature 2 by adding a context switch counter.
+**What I did**: Completed Part 1: GitHub Setup & Personalization, implemented Feature 1 (Process Priority), and implemented Feature 2 (Context Switch Counter).s
 
 **Details**:
 - Added a priority variable to the Process class.
