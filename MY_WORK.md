@@ -153,17 +153,17 @@
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**:
+### Entry 2 - [October 4, 2026, 6:44]
 
-**Details**:
+**What I did**: Implemented Feature 3 to track the waiting time of each process.
 
-**Challenges**:
+**Details**: Added queue entry time and total waiting time tracking. The program records when a process enters the ready queue, updates its waiting time before execution, and displays a final table with the process name, burst time, waiting time, and turnaround time.
 
-**Solution**:
+**Challenges**: I needed to make sure the waiting time was updated correctly every time a process entered the ready queue.
 
-**Time spent**:
+**Solution**: Recorded the queue entry time whenever a process was added to the ready queue and calculated the elapsed waiting time before the process started running.
 
+**Time spent**: [1 hour and 24 minutes]
 ---
 
 ### Entry 3 - [Date and Time]
