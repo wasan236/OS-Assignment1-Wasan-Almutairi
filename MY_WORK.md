@@ -248,7 +248,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[I learned about how multithreading works . I knew what means threads . but I did not really understand how they work with processes .in this assignment, I learned that each process can use a thread and wait in the ready queue until it gets a chance to run . also I understand how the time quantum controls how long a process can run before another process gets a turn . And I knew how the context switches and waiting time works.]
 
 ## Question 2: What was the most challenging part of this assignment?
 
@@ -256,7 +256,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[The most challenging part of this assignment was understanding the output when I run the program. It displayed strange characters in the terminal, and I thought there was error in my code. I checked the output and noticed that the program was still working without any error. also I have some difficulty with Git and commits because I was not sure how to move my changes from VS Code to GitHub. After trying it and checking GitHub, I understand how to move the changes . This is the two most challenging part of this assignment.]
 
 ## Question 3: How did you overcome the challenges you faced?
 
@@ -264,7 +264,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[I overcame these challenges by checking everything step by step. When I saw the strange characters in the terminal, I checked the output to make sure the program was running without any errors. also I ran the program again after making changes to check if there is any errors in the output. But Git and commits, I learned how to commit my changes in VS Code and then check if it’s moved to GitHub. I checked the repository after each commit to make sure my changes moved to GitHub. This is how I solved the problems.]
 
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 
@@ -272,7 +272,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[I think multithreading can be useful in many applications that we use every day. For example, a music application can use one thread to play music and another thread to handle the user actions. This is useful because the user may change the song or use the application while the music is playing. It can also be useful in web browsers because different tasks can run at the same time. In this assignment, I learned that threads can share the work and help the program do many tasks at the same time. And it can make applications more useful for the user.]
 
 ### Optional: What would you like to learn more about?
 
