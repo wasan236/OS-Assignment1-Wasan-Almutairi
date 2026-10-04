@@ -166,16 +166,17 @@
 **Time spent**: [1 hour and 24 minutes]
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**:
+### Entry 3 - [October 4, 2026, 3:06 PM]
 
-**Details**:
+**What I did**: Completed the four reflection questions for Part 3.
 
-**Challenges**:
+**Details**: I answered the questions about what I learned from multithreading, the challenges I faced during the assignment, how I solved them, and how multithreading can be used in real-world applications.
 
-**Solution**:
+**Challenges**: It was a little difficult to explain what I learned on this assignment and connect my answers with the work I did in the assignment.
 
-**Time spent**:
+**Solution**: I reviewed my work and the program output, then I used examples from my own experience in the assignment to answer the questions.
+
+**Time spent**: [1 hour and 26 minutes]
 
 ---
 
