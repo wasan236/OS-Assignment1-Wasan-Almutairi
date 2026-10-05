@@ -129,7 +129,7 @@
 
 ## Your Development Log
 
-### Entry 1 - [October 3, 2026, 8:21]
+### Entry 1 - [October 3, 2026, 8:21 PM]
 
 **What I did**: Completed Part 1: GitHub Setup & Personalization, implemented Feature 1 (Process Priority), and implemented Feature 2 (Context Switch Counter).s
 
@@ -149,11 +149,11 @@
 
 **Solution**: Checked the program output and confirmed that the priority values were still generated and displayed correctly.
 
-**Time spent**: [5 hours and 21 minutes]
+**Time spent**: 5 hours and 21 minutes
 
 ---
 
-### Entry 2 - [October 4, 2026, 6:44]
+### Entry 2 - [October 4, 2026, 6:44 AM]
 
 **What I did**: Implemented Feature 3 to track the waiting time of each process.
 
@@ -163,7 +163,7 @@
 
 **Solution**: Recorded the queue entry time whenever a process was added to the ready queue and calculated the elapsed waiting time before the process started running.
 
-**Time spent**: [1 hour and 24 minutes]
+**Time spent**: 1 hour and 24 minutes
 ---
 
 ### Entry 3 - [October 4, 2026, 3:06 PM]
@@ -176,20 +176,21 @@
 
 **Solution**: I reviewed my work and the program output, then I used examples from my own experience in the assignment to answer the questions.
 
-**Time spent**: [1 hour and 26 minutes]
+**Time spent**: 1 hour and 26 minutes
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**:
+### Entry 4 - [October 5, 2026, 9;07 AM]
 
-**Details**:
+**What I did**: Completed the technical questions and summary in MY_WORK.md
 
-**Challenges**:
+**Details**:I answered the technical questions about Round-Robin scheduling, ready queue behavior, thread lifecycle, and real-world applications,also i completed the summary about what i learned and what i need to study more
 
-**Solution**:
+**Challenges**:I had difficulty understanding how the threads move between different states
 
-**Time spent**:
+**Solution**:I runned my code and followed P1 through the thread states to understand how start(), sleep(), and join() work
+
+**Time spent**: 3 hours and 7 minutes
 
 ---
 
