@@ -39,7 +39,7 @@
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**: [[Assignment 1 Demo Video](https://drive.google.com/file/d/1h3Fj5p1pGuicpxGLWOd7Ir82GPseGxsx/view?usp=sharing)]
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
@@ -180,7 +180,7 @@
 
 ---
 
-### Entry 4 - [October 5, 2026, 9;07 AM]
+### Entry 4 - [October 5, 2026, 9:07 AM]
 
 **What I did**: Completed the technical questions and summary in MY_WORK.md
 
@@ -194,16 +194,16 @@
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**:
+### Entry 5 - [October 6, 2026, 6:00 PM]
+**What I did**:Recorded and completed the video demonstration for Assignment 1
 
-**Details**:
+**Details**:I showed my public GitHub repository, explained my three features, ran the program in VS Code, explained one threading concept, and showed my commit history
 
-**Challenges**:
+**Challenges**:I had difficulty showing the program output in the Debug Console and keeping the video within the required time
 
-**Solution**:
+**Solution**:I changed the Java console setting to the Debug Console, recorded the output separately, and edited the video to combine the recordings
 
-**Time spent**:
+**Time spent**:3 hours and 30 minutes
 
 ---
 
@@ -224,13 +224,13 @@
 
 > 💡 **TIP:** Fill this in **last**, after all entries are written.
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [15 hours]
 
-**Most challenging part**:
+**Most challenging part**:Understanding the threads and how they work with Round-Robin scheduling
 
-**Most interesting learning**:
+**Most interesting learning**:I learned how Round-Robin scheduling works with threads and how each process gets a time quantum
 
-**What I would do differently next time**:
+**What I would do differently next time**:I would start the assignment earlier and test each feature after I finish it
 
 ---
 
