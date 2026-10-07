@@ -39,7 +39,7 @@
 
 ## 🎥 Video Link
 
-**Video Link**: [[Assignment 1 Demo Video](https://drive.google.com/file/d/1h3Fj5p1pGuicpxGLWOd7Ir82GPseGxsx/view?usp=sharing)]
+**Video Link**: [[Assignment 1 Video](https://drive.google.com/file/d/1h3Fj5p1pGuicpxGLWOd7Ir82GPseGxsx/view?usp=sharing)]
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
@@ -131,23 +131,23 @@
 
 ### Entry 1 - [October 3, 2026, 8:21 PM]
 
-**What I did**: Completed Part 1: GitHub Setup & Personalization, implemented Feature 1 (Process Priority), and implemented Feature 2 (Context Switch Counter).s
+**What I did**: Completed Part 1: GitHub Setup & Personalization, implemented Feature 1 (Process Priority), and implemented Feature 2 (Context Switch Counter)
 
 **Details**:
-- Added a priority variable to the Process class.
-- Added setPriority() and getPriority() methods.
-- Generated a random priority from 1 to 10 for each process.
-- Displayed the priority when a process is added to the ready queue.
-- Ran the program to check that priorities were generated and displayed correctly.
-- Committed and pushed the changes to GitHub.
-- Added a counter to track the total number of context switches.
+- Added a priority variable to the Process class
+- Added setPriority() and getPriority() methods
+- Generated a random priority from 1 to 10 for each process
+- Displayed the priority when a process is added to the ready queue
+- Ran the program to check that priorities were generated and displayed correctly
+- Committed and pushed the changes to GitHub
+- Added a counter to track the total number of context switches
 - Incremented the counter before starting each process.
-- Displayed the total number of context switches at the end of the simulation.
-- Ran the program and confirmed that the context switch counter worked correctly.
+- Displayed the total number of context switches at the end of the simulation
+- Ran the program and confirmed that the context switch counter worked correctly
 
-**Challenges**: The terminal displayed some strange characters while running the program.
+**Challenges**: The terminal displayed some strange characters while running the program
 
-**Solution**: Checked the program output and confirmed that the priority values were still generated and displayed correctly.
+**Solution**: Checked the program output and confirmed that the priority values were still generated and displayed correctly
 
 **Time spent**: 5 hours and 21 minutes
 
@@ -155,26 +155,26 @@
 
 ### Entry 2 - [October 4, 2026, 6:44 AM]
 
-**What I did**: Implemented Feature 3 to track the waiting time of each process.
+**What I did**: Implemented Feature 3 to track the waiting time of each process
 
-**Details**: Added queue entry time and total waiting time tracking. The program records when a process enters the ready queue, updates its waiting time before execution, and displays a final table with the process name, burst time, waiting time, and turnaround time.
+**Details**: Added queue entry time and total waiting time tracking. The program records when a process enters the ready queue, updates its waiting time before execution, and displays a final table with the process name, burst time, waiting time, and turnaround time
 
-**Challenges**: I needed to make sure the waiting time was updated correctly every time a process entered the ready queue.
+**Challenges**: I needed to make sure the waiting time was updated correctly every time a process entered the ready queue
 
-**Solution**: Recorded the queue entry time whenever a process was added to the ready queue and calculated the elapsed waiting time before the process started running.
+**Solution**: Recorded the queue entry time whenever a process was added to the ready queue and calculated the elapsed waiting time before the process started running
 
 **Time spent**: 1 hour and 24 minutes
 ---
 
 ### Entry 3 - [October 4, 2026, 3:06 PM]
 
-**What I did**: Completed the four reflection questions for Part 3.
+**What I did**: Completed the four reflection questions for Part 3
 
-**Details**: I answered the questions about what I learned from multithreading, the challenges I faced during the assignment, how I solved them, and how multithreading can be used in real-world applications.
+**Details**: I answered the questions about what I learned from multithreading, the challenges I faced during the assignment, how I solved them, and how multithreading can be used in real-world applications
 
-**Challenges**: It was a little difficult to explain what I learned on this assignment and connect my answers with the work I did in the assignment.
+**Challenges**: It was a little difficult to explain what I learned on this assignment and connect my answers with the work I did in the assignment
 
-**Solution**: I reviewed my work and the program output, then I used examples from my own experience in the assignment to answer the questions.
+**Solution**: I reviewed my work and the program output, then I used examples from my own experience in the assignment to answer the questions
 
 **Time spent**: 1 hour and 26 minutes
 
@@ -250,7 +250,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[I learned about how multithreading works . I knew what means threads . but I did not really understand how they work with processes .in this assignment, I learned that each process can use a thread and wait in the ready queue until it gets a chance to run . also I understand how the time quantum controls how long a process can run before another process gets a turn . And I knew how the context switches and waiting time works.]
+[I learned about how multithreading works . I knew what means threads . but I did not really understand how they work with processes .in this assignment, I learned that each process can use a thread and wait in the ready queue until it gets a chance to run . also I understand how the time quantum controls how long a process can run before another process gets a turn . And I knew how the context switches and waiting time works]
 
 ## Question 2: What was the most challenging part of this assignment?
 
@@ -258,7 +258,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[The most challenging part of this assignment was understanding the output when I run the program. It displayed strange characters in the terminal, and I thought there was error in my code. I checked the output and noticed that the program was still working without any error. also I have some difficulty with Git and commits because I was not sure how to move my changes from VS Code to GitHub. After trying it and checking GitHub, I understand how to move the changes . This is the two most challenging part of this assignment.]
+[The most challenging part of this assignment was understanding the output when I run the program. It displayed strange characters in the terminal. and I thought there was error in my code. I checked the output and noticed that the program was still working without any error. also I have some difficulty with Git and commits because I was not sure how to move my changes from VS Code to GitHub. After trying it and checking GitHub, I understand how to move the changes . This is the two most challenging part of this assignment]
 
 ## Question 3: How did you overcome the challenges you faced?
 
@@ -266,7 +266,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[I overcame these challenges by checking everything step by step. When I saw the strange characters in the terminal, I checked the output to make sure the program was running without any errors. also I ran the program again after making changes to check if there is any errors in the output. But Git and commits, I learned how to commit my changes in VS Code and then check if it’s moved to GitHub. I checked the repository after each commit to make sure my changes moved to GitHub. This is how I solved the problems.]
+[I overcame these challenges by checking everything step by step. When I saw the strange characters in the terminal, I checked the output to make sure the program was running without any errors. also I ran the program again after making changes to check if there is any errors in the output. But Git and commits, I learned how to commit my changes in VS Code and then check if it’s moved to GitHub. I checked the repository after each commit to make sure my changes moved to GitHub. This is how I solved the problems]
 
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 
@@ -274,7 +274,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[I think multithreading can be useful in many applications that we use every day. For example, a music application can use one thread to play music and another thread to handle the user actions. This is useful because the user may change the song or use the application while the music is playing. It can also be useful in web browsers because different tasks can run at the same time. In this assignment, I learned that threads can share the work and help the program do many tasks at the same time. And it can make applications more useful for the user.]
+[I think multithreading can be useful in many applications that we use every day. For example, a music application can use one thread to play music and another thread to handle the user actions. This is useful because the user may change the song or use the application while the music is playing. It can also be useful in web browsers because different tasks can run at the same time. In this assignment, I learned that threads can share the work and help the program do many tasks at the same time. And it can make applications more useful for the user]
 
 ### Optional: What would you like to learn more about?
 
@@ -318,7 +318,7 @@
 
 **Your Answer:** *(3-5 sentences)*
 
-[In Round-Robin scheduling, if a process does not finish but the time quantum finishes, it goes back to the ready queue and waits for another turn.Re-queueing is important for fairness because it gives a chance to the other processes to use the CPU and make progress in all processes.]
+[In Round-Robin scheduling, if a process does not finish but the time quantum finishes, it goes back to the ready queue and waits for another turn.Re-queueing is important for fairness because it gives a chance to the other processes to use the CPU and make progress in all processes]
 
 Example from my output:
 ```
@@ -358,7 +358,7 @@ P1 finished execution!
 
 3. **Running**: [P1 is Running when its thread starts executing the run() method and runs for its time quantum]
 
-4. **Waiting**: [P1’s thread temporarily waits when Thread.sleep(stepTime) is called inside run(). And, currentThread.join() makes the main thread wait until P1 thread finishes its quantum]
+4. **Waiting**: [P1’s thread temporarily waits when Thread.sleep(stepTime) is called inside run(). And currentThread.join() makes the main thread wait until P1 thread finishes its quantum]
 
 5. **Terminated**: [P1 thread becomes Terminated when it finishes the run() method. If P1 still has remaining time, the program creates a new thread for P1 when it is added back to the ready queue]
 
